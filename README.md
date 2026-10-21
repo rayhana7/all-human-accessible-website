@@ -12,7 +12,7 @@ De instructie van deze leertaak staat in [WIKI](https://github.com/fdnd-task/all
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+Tijdens deze les hebben we het gehad over de toegankelijkheid van websites.
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
